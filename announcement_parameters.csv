@@ -1,2 +1,2 @@
-url,start_date,end_date,start_time,end_time,subject,message,account_id
-,,,,,,,
+start_date (m/d/y),end_date (m/d/y),start_time (HH:MM (24 hour)),end_time (HH:MM (24 hour)),subject,message,account_id
+4/5/2018,4/6/2018,5:00,12:00,Hello,test,456
